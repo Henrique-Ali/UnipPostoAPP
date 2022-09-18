@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Posto Cálculo</string>
+    <string name="Gasolina">Gasolina</string>
+    <string name="Alcool">Álcool</string>
+    <string name="Calcular">CALCULAR</string>
+    <string name="table_layout_4_open">table_layout_4_open</string>
+    <string name="table_layout_4_open_shortcut">table_layout_4_open_shortcut</string>
+    <string name="table_layout_4_save">table_layout_4_save</string>
+    <string name="table_layout_4_save_shortcut">table_layout_4_save_shortcut</string>
+    <string name="data">Data</string>
+    <string name="Bluetooth">BLUETOOTH</string>
+</resources>
